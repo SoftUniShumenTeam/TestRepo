@@ -17,10 +17,25 @@ namespace ShumenTeam
             // else "The result is odd number."
 
             int n = int.Parse(Console.ReadLine());
+            int totalSum = 0;
 
             for (int i = 1; i < n; i++)
             {
-                // TODO:
+                if(i % 3 == 0)
+                {
+                    totalSum += i;
+                }
+            }
+
+            totalSum *= 3;
+
+            if (totalSum % 2 == 0)
+            {
+                Console.WriteLine("The result is even number.", totalSum);
+            }
+            else
+            {
+                Console.WriteLine("The result is odd number.", totalSum);
             }
         }
     }
