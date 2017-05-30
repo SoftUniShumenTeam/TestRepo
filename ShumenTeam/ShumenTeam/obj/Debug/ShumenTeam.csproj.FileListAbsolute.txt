@@ -1,7 +1,16 @@
 C:\Users\Ruskov\Desktop\ProgrammingFundamentals\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.exe.config
+<<<<<<< HEAD
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.exe.config
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.exe
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.pdb
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.csprojResolveAssemblyReference.cache
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.exe
 C:\Users\Misho Dobrev\Desktop\TestRepo-master\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.pdb
+=======
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.exe.config
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.exe
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\bin\Debug\ShumenTeam.pdb
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.csprojResolveAssemblyReference.cache
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.exe
+C:\Users\Ruskov\Desktop\New folder (2)\TestRepo\ShumenTeam\ShumenTeam\obj\Debug\ShumenTeam.pdb
+>>>>>>> a00ada61e4afe8f02d10e4d90d3752a2542ab24c
